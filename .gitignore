@@ -1,0 +1,106 @@
+# General
+###################
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder Config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac Resource fork files
+._*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Temporary files
+*.tmp
+*~
+*.swp
+*.swo
+
+# IDE & Editor specific files
+###################
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# JetBrains IDEs (WebStorm, IntelliJ, etc.)
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+.atom/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+.nb-gradle/
+
+# Build & Dependency related
+###################
+
+# Node.js dependencies (very common even for simple HTML projects with build tools)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Local environment variables
+# Often used for API keys or local configurations you don't want in the repo
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Optional: Build output directories (if you have a build step)
+# Uncomment these if you have a build process that generates files into these folders
+# dist/
+# build/
+# public/ # (if 'public' is an output folder, not source)
+# out/
+
+# Log files
+###################
+logs
+*.log
+
+# Operating System Files
+###################
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
