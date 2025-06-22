@@ -99,3 +99,14 @@
 48. Common Git Mistakes and How to Fix Them
 49. Git Cheat Sheet (Printable)
 50. Final Project: Team Workflow Simulation with Branching, PRs, Merge Conflicts & Pushes
+
+---
+
+## 🎁 **Bonus Chapter: Ship Clean Code with ESLint, Prettier, Husky, lint-staged & Commit Prefixes**
+
+- 🚀 Why This Chapter Matters
+- 🛠️ Step-by-Step Setup
+- 🏃️ Commit Prefix Standards
+- 🎲 Common Prefixes with Emoji
+- 🚪 VS Code Integration
+- 🚪 Final Directory Structure
