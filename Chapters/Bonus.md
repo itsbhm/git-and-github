@@ -272,8 +272,7 @@ project/
 ├── .prettierrc
 ├── commitlint.config.js
 ├── package.json
-├── index.js
-└── EMOJI-COMMIT-CHEATSHEET.md
+└── index.js
 ```
 
 ---
